@@ -101,7 +101,10 @@ Username for 'https://github.com': meaganmckee
 Password for 'https://meaganmckee@github.com': 
 
 ### Step 6
-
+touch menu.txt
+git add .
+git commit -m 'starting a menu'
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
